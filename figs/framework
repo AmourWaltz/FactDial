@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T08:53:43.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="hRrAr0MuKr-4XVXpvKY0" type="github"><diagram id="1RVdXAK0fJ6Q3Kj2LOuS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:03:53.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="zbV_v9jTnaKsdevRItQj" type="github">
+  <diagram id="rGnRi5jYEAo9KuGM_sZk" name="Page-1">
+    <mxGraphModel dx="823" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FB34kBFBliBJceFrJaQ--1" value="Pre-trained Language Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FB34kBFBliBJceFrJaQ--2" value="External Knowledge" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FB34kBFBliBJceFrJaQ--4" value="Dialogue Contexts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FB34kBFBliBJceFrJaQ--5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=15;width=8;endSize=4.7075;endWidth=14.5;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="600" as="sourcePoint" />
+            <mxPoint x="570" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
