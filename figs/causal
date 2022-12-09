@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T01:50:40.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="kab7e_TT1qSoS3agStf_" type="github"><diagram id="MHYf9ZO8ggNSZXjnLbSw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T02:41:21.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="0zaWomnL_bm_q4fQVQq6" type="github">
+  <diagram id="Q5RjZZQbUcKxQ_L0SAwl" name="Page-1">
+    <mxGraphModel dx="1183" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="mX2Tl9A3kV91e5f2ohXm-1" target="mX2Tl9A3kV91e5f2ohXm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-1" value="K" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-2" value="Y" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="mX2Tl9A3kV91e5f2ohXm-3" target="mX2Tl9A3kV91e5f2ohXm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-3" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.987;exitY=0.351;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;exitPerimeter=0;" edge="1" parent="1" source="mX2Tl9A3kV91e5f2ohXm-4" target="mX2Tl9A3kV91e5f2ohXm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=20;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="mX2Tl9A3kV91e5f2ohXm-4" target="mX2Tl9A3kV91e5f2ohXm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-4" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX2Tl9A3kV91e5f2ohXm-9" value="&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;K: External Knowledge&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;C: Dialogue Contexts&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;X: Prior Knowledge in the Language Model&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Y: Generated Responses&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="370" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
