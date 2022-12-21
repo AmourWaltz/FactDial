@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T08:59:06.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bz6nNNHNRaYRnBTmZUsX" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:08:38.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1b7IdVPlu8vt_GcDwGka" version="20.6.2" type="github">
   <diagram id="rGnRi5jYEAo9KuGM_sZk" name="Page-1">
-    <mxGraphModel dx="2201" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2201" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB34kBFBliBJceFrJaQ--2" value="External Knowledge" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="FB34kBFBliBJceFrJaQ--2" value="K" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="610" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FB34kBFBliBJceFrJaQ--4" value="Dialogue Contexts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="FB34kBFBliBJceFrJaQ--4" value="C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="570" y="610" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FB34kBFBliBJceFrJaQ--5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=15;width=8;endSize=4.7075;endWidth=14.5;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
