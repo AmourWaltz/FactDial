@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T07:13:50.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="g_kGmITL3LQeu-vvGY2i" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T07:53:06.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="o_QQ1jiIrRoDyIw5v2iU" version="20.7.4" type="github">
   <diagram id="rGnRi5jYEAo9KuGM_sZk" name="Page-1">
-    <mxGraphModel dx="2385" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="867" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-296" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=15;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1061.75" y="372" width="448.25" height="247" as="geometry" />
+          <mxGeometry x="1061.75" y="372" width="418.25" height="247" as="geometry" />
         </mxCell>
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-181" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=none;dashed=1;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="768.63" y="431.75" width="251.37" height="107.5" as="geometry" />
@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-183" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=none;dashed=1;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="768.63" y="741.75" width="741.37" height="107.5" as="geometry" />
+          <mxGeometry x="768.63" y="741.75" width="711.37" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-184" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#f5f5f5;fontFamily=Georgia;fontColor=#333333;strokeColor=#666666;opacity=50;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="765" width="200" height="80" as="geometry" />
@@ -436,8 +436,8 @@
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-292" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1083" y="574" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1AHJtD8_qgkJWAqxRs4a-293" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Original Knowledge Neuron of Pre-trained Language Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="1103" y="503" width="390" height="30" as="geometry" />
+        <mxCell id="1AHJtD8_qgkJWAqxRs4a-293" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Prior Knowledge Neuron of Pre-trained Language Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Courier New;" parent="1" vertex="1">
+          <mxGeometry x="1103" y="503" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1AHJtD8_qgkJWAqxRs4a-294" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Detected Factually Incorrect Knowledge&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;Neuron&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="1103" y="534" width="320" height="30" as="geometry" />
