@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T14:18:58.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="qHi_IjNKqWV5qRUL8Wod" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T14:20:06.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="-tZ_m5X0HQRheRAl2PC-" type="github">
   <diagram id="RZw11U9Z0QufpU0lCv-w" name="Page-1">
-    <mxGraphModel dx="415" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1122" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,8 +96,8 @@
         <mxCell id="n8CdIjWMTedt_Ckutx07-30" value="$$\mathbf H_E^2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="377" y="256" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n8CdIjWMTedt_Ckutx07-31" value="$$\mathbf H_E^3$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="377" y="216" width="110" height="30" as="geometry" />
+        <mxCell id="n8CdIjWMTedt_Ckutx07-31" value="$$\boldsymbol H_E^3$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="367" y="216" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8CdIjWMTedt_Ckutx07-32" value="$$\mathbf W_D$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="100" height="30" as="geometry" />
