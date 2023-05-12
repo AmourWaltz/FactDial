@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T08:16:49.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZpVROrtqMujjVpSzVlW1" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T22:40:35.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="J6YFaaqk5gq8pgnTGHUN" version="21.2.3" type="github">
   <diagram id="rGnRi5jYEAo9KuGM_sZk" name="Page-1">
-    <mxGraphModel dx="1590" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1590" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,15 +235,6 @@
         </mxCell>
         <mxCell id="o2bls5Q18p_dxOcrF1qy-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Embedding Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="565" y="774.5" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o2bls5Q18p_dxOcrF1qy-16" value="&lt;font size=&quot;1&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1052.5" y="810" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o2bls5Q18p_dxOcrF1qy-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1140" y="831" as="sourcePoint" />
-            <mxPoint x="1140" y="811" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="o2bls5Q18p_dxOcrF1qy-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Georgia;fontSize=15;width=8.64864864864865;endSize=1.9063829787234043;endWidth=9.411539198773243;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
