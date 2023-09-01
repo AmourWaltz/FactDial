@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T14:21:04.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="q9K5dDWAgsOCMOrIqFtR" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T14:22:50.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="p8-tVX3GledObRk2sTid" version="21.7.1" type="github">
   <diagram name="Page-1" id="7wC7hmL37pKosh5_3M5G">
-    <mxGraphModel dx="2440" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2043" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,8 +195,8 @@
         <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-600" y="658.25" width="339" height="201.75" as="geometry" />
         </mxCell>
-        <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;$$\left [ (\boldsymbol K^{(1)}, \boldsymbol Y^{(1)}), (\boldsymbol K^{(2)}, \boldsymbol Y^{(2)})&lt;br&gt;&amp;nbsp; , \dots ,(\boldsymbol K^{(N)}, \boldsymbol Y^{(N)})&lt;br&gt;\right ]$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-710.5" y="684" width="560" height="60" as="geometry" />
+        <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;$$\left [ (\boldsymbol K^{(1)}, \boldsymbol Y^{(1)}), &lt;br&gt;(\boldsymbol K^{(2)}, \boldsymbol Y^{(2)})&lt;br&gt;&amp;nbsp; , \dots ,(\boldsymbol K^{(N)}, \boldsymbol Y^{(N)})&lt;br&gt;\right ]$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-590.5" y="674" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-7" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Knowledge-Response Pairs Set&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-565.5" y="665" width="270" height="40" as="geometry" />
