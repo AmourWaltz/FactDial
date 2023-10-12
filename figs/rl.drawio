@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T17:19:52.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YhjeF45T1cekVu-gOBgc" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T22:52:00.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZzEl-lKwC38DI93GeRzM" version="22.0.4" type="github">
   <diagram name="Page-1" id="7wC7hmL37pKosh5_3M5G">
-    <mxGraphModel dx="1759" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2318" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-536" y="655.5" width="339" height="201.75" as="geometry" />
         </mxCell>
         <mxCell id="E1G1Nh65rdz_8GTC2rJk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="730.25" width="304" height="105" as="geometry" />
+          <mxGeometry x="-520" y="727.25" width="304" height="105" as="geometry" />
         </mxCell>
         <mxCell id="U5F7xQGnL32-fihAAhYg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" parent="1" source="4u2AF7FJxZ9QzFyWI-jE-15" target="CZVFG8hrNlgNmazYNYvc-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,19 +199,19 @@
           <mxGeometry x="97.87" y="766" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-7" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 20px;&quot;&gt;Knowledge-Response Pairs Set&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-501.5" y="677.5" width="270" height="40" as="geometry" />
+          <mxGeometry x="-501.5" y="674.5" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U5F7xQGnL32-fihAAhYg-63" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-style: italic;&quot; face=&quot;Georgia&quot;&gt;Positive Samples&lt;/font&gt;&lt;font face=&quot;Georgia&quot;&gt; (+)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-521" y="729.79" width="170" height="30" as="geometry" />
+          <mxGeometry x="-521" y="726.79" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U5F7xQGnL32-fihAAhYg-64" value="&lt;font size=&quot;1&quot; face=&quot;Georgia&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;Negative Samples&lt;/i&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt; (-)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-519.13" y="784.2299999999999" width="170" height="30" as="geometry" />
+          <mxGeometry x="-519.13" y="781.2299999999999" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U5F7xQGnL32-fihAAhYg-65" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;( [Knowledge]，[Consistent&amp;nbsp;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;Response&lt;/span&gt;] )&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-496.5" y="751.2299999999999" width="270" height="30" as="geometry" />
+          <mxGeometry x="-496.5" y="748.2299999999999" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U5F7xQGnL32-fihAAhYg-66" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;( [Knowledge]，[Inconsistent&amp;nbsp;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;Response&lt;/span&gt;] )&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-499" y="804.6" width="280" height="30" as="geometry" />
+          <mxGeometry x="-499" y="801.6" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf3rKg4Mg2yvIvD8o-Fc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;strokeColor=#00994D;strokeWidth=1.5;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290.12" y="698" width="49.5" height="16" as="geometry" />
@@ -235,10 +235,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E1G1Nh65rdz_8GTC2rJk-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\hat y=1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-382" y="729.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="-382" y="726.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E1G1Nh65rdz_8GTC2rJk-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\hat y=0$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-378" y="783.23" width="100" height="30" as="geometry" />
+          <mxGeometry x="-378" y="780.23" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
