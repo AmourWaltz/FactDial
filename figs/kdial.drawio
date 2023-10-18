@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:33:16.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ct6YvD4-y2Ms1zj6_H1U" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T08:09:53.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_13GzfdQqCxM8755uuMY" version="22.0.4" type="github">
   <diagram id="rGnRi5jYEAo9KuGM_sZk" name="Page-1">
-    <mxGraphModel dx="1272" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1363" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,10 +145,10 @@
         <mxCell id="zV5g6A6bOs3h6iSMPPQw-8" value="&lt;span style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Generated Responses.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="225.14" y="747.75" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o2bls5Q18p_dxOcrF1qy-1" value="&lt;font face=&quot;Tahoma&quot;&gt;(a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="o2bls5Q18p_dxOcrF1qy-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="265.51" y="948.5" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o2bls5Q18p_dxOcrF1qy-2" value="&lt;font face=&quot;Tahoma&quot;&gt;(b)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="o2bls5Q18p_dxOcrF1qy-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(b)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="789" y="951.5" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2bls5Q18p_dxOcrF1qy-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Word Embedding Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontFamily=Tahoma;" parent="1" vertex="1">
