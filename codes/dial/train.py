@@ -12,7 +12,7 @@ from transformers import (AdamW, get_linear_schedule_with_warmup)
 from torch.nn.parallel import DistributedDataParallel as DDP
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
-from loader import *
+from codes.dial.data import *
 from utils import *
 from model import *
 

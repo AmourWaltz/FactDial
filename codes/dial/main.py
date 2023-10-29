@@ -9,7 +9,7 @@ from transformers import (set_seed, GPT2Config, GPT2Tokenizer)
 from torch import distributed as dist
 from torch.nn.parallel import DistributedDataParallel as DDP
 
-from loader import *
+from codes.dial.data import *
 from utils import *
 from model import *
 from infer import *
