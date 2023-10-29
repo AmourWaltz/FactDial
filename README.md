@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-# FactDialog
-
-### Updating in Progress ...
-=======
 # FactDial
 
 This repository contains the experimental settings for the paper "[Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment](https://arxiv.org/abs/2310.08372)". 
@@ -17,4 +12,3 @@ If you need to refer to this paper, please cite with the bibtex listed blow:
   year={2023}
 }
 ```
->>>>>>> Stashed changes
